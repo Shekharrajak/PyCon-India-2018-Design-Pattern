@@ -11,6 +11,9 @@ Let's learn ( and become expert), to speed up development process; guessing issu
 
 TODO
 
+Speaker will focus on **when** and **how** to use design patterns, rather than what are the design patterns available.
+
+
 ## Speaker info: 
 
 A guy who loves challenging stuffs and learning new technologies along with the 'Time'. Shekhar has learnt C, C++, Java in his college time and worked as student developer in Google Summer of Code (GSoC) 2016 (under [SymPy][1] organisation - Python language) and 2017 (under [SciRuby][2] organisation - Ruby language), also contributed to open source projects like [bundler][3] gem. Shekhar is mentoring 3 Projects in [GSoC'18][4]. Currently he is working in Benguluru India as Software developer (Full Stack Developer). Shekhar loves playing chess, cricket , watching and reading about ancient India, spirituality and travelling.
