@@ -9,9 +9,9 @@ Let's learn ( and become expert), to speed up development process; guessing issu
 
 ## Contents:
 
-TODO
-
 Speaker will focus on **when** and **how** to use design patterns, rather than what are the design patterns available.
+
+[Few examples](https://github.com/Shekharrajak/PyCon-India-2018-Design-Pattern/blob/master/contents.md)
 
 
 ## Speaker info: 
