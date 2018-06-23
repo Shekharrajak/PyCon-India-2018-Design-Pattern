@@ -1,5 +1,11 @@
 # PyCon-India-2018-Design-Pattern
 
+## Link : 
+
+https://in.pycon.org/cfp/2018/proposals/i-would-have-known-this-software-design-techniques-before~eXwgd/
+
+## I would have known, this software design techniques before..
+
 ## Description:
 
 Having less time to **design software** and solving the **design problems** correctly,  to create **robust**, **modular** and highly **maintainable code** is todays challenge.
